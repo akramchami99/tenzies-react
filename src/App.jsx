@@ -83,7 +83,7 @@ function App() {
       <main>
         {tenzies && <Confetti />}
         <h1 className="title">Tenzies</h1>
-        <p className="instructions">Roll until all dice are the same. Click each die to freeze it at its current value between rolls.</p>
+        <h2 className="instructions">Roll until all dice are the same. Click each die to freeze it at its current value between rolls.</h2>
         <div className='die--container'>
           {diceElements}
         </div>
