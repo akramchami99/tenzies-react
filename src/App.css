@@ -1,7 +1,7 @@
 main{
   margin: auto;
-  max-width: 60%;
-  height: 55rem;
+  width:  45rem;
+  height: 45rem;
   background-color: #F5F5F5;
   border-radius: 5px;
   padding: 20px;
@@ -17,7 +17,6 @@ main{
 }
 
 .instructions {
-  
   font-weight: 400;
   margin-top: 0;
   text-align: center;
